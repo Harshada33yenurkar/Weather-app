@@ -1,4 +1,4 @@
-# 🌦️ Weather App
+ # 🌦️ Weather App
 
 A weather forecast app built with **React Native** and **OpenWeatherMap API**.
 
