@@ -16,7 +16,7 @@ A weather forecast app built with **React Native** and **OpenWeatherMap API**.
 ## 🧪 Getting Started
 
  --bash
-git clone https://github.com/your-username/weatherapp.git
+git clone https://github.com/Harshada33yenurkar/Weather-app
 cd weatherapp
 npm install
 npx react-native run-android   
